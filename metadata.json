@@ -1,0 +1,6 @@
+{
+  "name": "HEROxStore",
+  "description": "Pusat Produk Digital - Top Up & Digital Produk Termurah 24/7",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
